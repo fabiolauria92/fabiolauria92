@@ -95,15 +95,6 @@ Leading ELECTE's technology vision focused on scalable, enterprise-grade AI solu
 - **Community Building** - Growing newsletter and thought leadership
 - **Open Source** - Contributing to data science ecosystem
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiolauria92&show_icons=true&theme=nord&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabiolauria92&theme=nord&hide_border=true)
-
-</div>
 
 ## 📫 Let's Connect
 
