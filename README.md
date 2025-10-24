@@ -1,16 +1,133 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fabiolauria92/fabiolauria92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Fabio Lauria
 
-Here are some ideas to get you started:
+### CEO & Founder @ ELECTE | AI & Data Analytics Innovator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fabiolauria)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@fabiolauria)
+[![Website](https://img.shields.io/badge/Website-electe.net-blue?style=for-the-badge)](https://electe.net)
+
+</div>
+
+## 🚀 About Me
+
+**Chief Executive Officer** at **[ELECTE S.R.L.](https://electe.net)**, an AI-powered data analytics company serving European SMEs.
+
+Founded ELECTE in 2023 with a clear mission: democratize enterprise-grade data intelligence for businesses of all sizes. Under my leadership, the company has achieved 278% year-over-year growth while expanding to serve clients internationally.
+
+**Leading ELECTE's Vision:**
+- Building AI/ML solutions that compete with enterprise-level analytics platforms
+- Growing a team focused on innovation in predictive analytics and custom model development
+- Establishing partnerships across European markets
+- Driving product development for GDPR-compliant, scalable infrastructure
+
+Based in Milan, ELECTE operates at the forefront of business intelligence innovation, proving that sophisticated data science capabilities shouldn't be limited to large corporations.
+
+**Under My Leadership:** 278% growth | 15,000+ community | 80% international clients | 5 major industry awards
+
+### 🏆 Recent Recognition
+
+- **Le Fonti Awards Winner 2025** - Excellence in Innovation & Leadership (AI Solutions)
+- **European CEO of the Year 2025** - EU Business News
+- **Netty Award 2024** - AI Innovation of the Year
+- **Premio America Innovazione 2024** - Fondazione Italia USA
+- **MarTech Awards 2024** - Best AI Marketing Product Solutions Enterprise (Italy)
+
+### 💼 What I Do
+
+- 🤖 Leading AI/ML innovation for enterprise data analytics
+- 📊 Helping European SMEs transform data into competitive advantages
+- 📝 Writing about AI, data science, and business strategy
+- 🌍 Building GDPR-compliant solutions for European markets
+
+### 📈 ELECTE Impact
+
+```
+Platform Growth:        278% YoY
+Newsletter:             15,000+ subscribers
+International Revenue:  80% outside EU
+Innovation Focus:       100% AI/ML projects
+```
+
+## 🛠️ Technology Leadership
+
+Leading ELECTE's technology vision focused on scalable, enterprise-grade AI solutions:
+
+**Core Capabilities:**
+- Advanced AI/ML model development and deployment
+- Real-time data processing and analytics infrastructure  
+- Cloud-native architecture (AWS, Azure, GCP)
+- GDPR-compliant data governance frameworks
+
+**Innovation Areas:**
+- Generative AI for business intelligence
+- Predictive analytics and forecasting
+- Natural language processing for data queries
+- AutoML and no-code analytics platforms
+
+![Python](https://img.shields.io/badge/AI/ML-Python_Based-3776AB?style=flat&logo=python)
+![Cloud](https://img.shields.io/badge/Cloud-Native-232F3E?style=flat&logo=amazon-aws)
+![GDPR](https://img.shields.io/badge/GDPR-Compliant-1976D2?style=flat)
+![Enterprise](https://img.shields.io/badge/Enterprise-Grade-00C853?style=flat)
+
+## 📝 Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+- Check out my latest articles on [Medium](https://medium.com/@fabiolauria)
+<!-- BLOG-POST-LIST:END -->
+
+**Popular Topics:**
+- 🤖 AI/ML implementation for SMEs
+- 📊 Data-driven decision making
+- 🚀 Startup growth & scaling
+- 🇪🇺 European tech innovation
+- 💡 Business strategy & leadership
+
+➡️ [Read more on Medium](https://medium.com/@fabiolauria)  
+📧 [Subscribe to Newsletter](https://magic.beehiiv.com/v1/648654e3-349f-4522-a74d-4bc3773c8864?email=) (15,000+ subscribers)
+
+
+## 💡 Current Projects
+
+- **ELECTE Platform** - AI-powered data analytics for European SMEs
+- **Content Creation** - Technical writing on AI democratization
+- **Community Building** - Growing newsletter and thought leadership
+- **Open Source** - Contributing to data science ecosystem
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiolauria92&show_icons=true&theme=nord&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabiolauria92&theme=nord&hide_border=true)
+
+</div>
+
+## 📫 Let's Connect
+
+I'm always open to discussing AI innovation, data analytics, business strategy, or collaboration opportunities!
+
+- 💼 **LinkedIn:** [fabiolauria](https://www.linkedin.com/in/fabiolauria)
+- 📝 **Medium:** [@fabiolauria](https://medium.com/@fabiolauria)
+- 🌐 **Website:** [electe.net](https://electe.net)
+- 📰 **Newsletter:** [Subscribe here](https://magic.beehiiv.com/v1/648654e3-349f-4522-a74d-4bc3773c8864?email=)
+
+### 🤝 Open to:
+- Speaking engagements on AI & data analytics
+- Advisory roles for AI/ML startups
+- Collaboration on data democratization projects
+- Guest posts and podcast appearances
+
+---
+
+<div align="center">
+
+### *"Making data-driven decisions accessible to every European SME"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=fabiolauria92&color=blue&style=flat)
+
+**© 2023-2025 Fabio Lauria | Italy 🇮🇹**
+
+</div>
