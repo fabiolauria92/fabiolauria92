@@ -24,7 +24,7 @@ Founded ELECTE in 2023 with a clear mission: democratize enterprise-grade data i
 
 Based in Milan, ELECTE operates at the forefront of business intelligence innovation, proving that sophisticated data science capabilities shouldn't be limited to large corporations.
 
-**Under My Leadership:** 278% growth | 15,000+ community | 80% international clients | 5 major industry awards
+**Under My Leadership:** 278% growth | 40,000+ community | 80% international clients | 5 major industry awards
 
 ### 🏆 Recent Recognition
 
