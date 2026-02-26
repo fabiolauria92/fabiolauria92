@@ -90,7 +90,12 @@ Leading ELECTE's technology vision focused on scalable, enterprise-grade AI solu
 
 ## 📄 Research
 
-Browse my published research papers in the [`research/`](./research) directory.
+**[The B+ Trap: How AI Compresses the Creative Spectrum — And What a Rebel Architecture Could Change](./research)**
+RLHF-trained AI systems are systematically rewarded for producing outputs that score well on average human preference — which mathematically pushes them toward creative mediocrity. This paper defines the B+ Trap, identifies RLHF as the structural mechanism, and proposes a Rebel AI framework built on novelty search, adversarial divergent agents, and metacognitive feedback.
+
+[![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.10486.46403-blue?style=flat)](https://doi.org/10.13140/RG.2.2.10486.46403)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-View-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/publication/389493037)
+[![SSRN](https://img.shields.io/badge/SSRN-View-154881?style=flat)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135194)
 
 ## 💡 Current Projects
 
