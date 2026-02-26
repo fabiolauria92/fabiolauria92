@@ -34,6 +34,7 @@ Published research and whitepapers by [Fabio Lauria](https://www.linkedin.com/in
 | **Apple Books** | [View on Apple Books](https://books.apple.com/us/book/id6759465519) |
 | **Barnes & Noble** | [View on B&N](https://www.barnesandnoble.com/w/x/x?ean=2940196155536) |
 | **Bookshop.org** | [View on Bookshop.org](https://bookshop.org/book/9791224323037) |
+| **Google Books** | [View on Google Books](https://books.google.at/books/about?id=po7EEQAAQBAJ&redir_esc=y) |
 | **Everand** | [View on Everand](https://www.everand.com/book/1000989032) |
 | **Fable** | [View on Fable](https://fable.co/book/x-9791224323037) |
 | **Kobo** | [View on Kobo](https://www.kobo.com/search?query=9791224323037) |
