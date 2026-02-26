@@ -1,6 +1,55 @@
 # Research
 
-Published research by [Fabio Lauria](https://www.linkedin.com/in/fabiolauria), CEO & Founder at [ELECTE](https://electe.net).
+Published research and whitepapers by [Fabio Lauria](https://www.linkedin.com/in/fabiolauria), CEO & Founder at [ELECTE](https://electe.net).
+
+---
+
+## AI for European SMEs: The 2026 Playbook
+
+**Author:** Fabio Lauria
+**Publisher:** Fabio Lauria (via Draft2Digital)
+**Date:** February 20, 2026
+**Pages:** 34
+**ISBN:** 9791224323037
+**Price:** Free
+
+### Description
+
+95% of enterprise AI pilots fail to deliver measurable financial returns. This whitepaper gives European SME leaders the frameworks, data, and implementation roadmaps to be in the other 5%.
+
+**What's inside:**
+- Market research from MIT, IBM, GlobalData, and S&P Global on AI deployment outcomes
+- Decision frameworks comparing Small Language Models vs. Large Language Models with GDPR considerations
+- 10 use cases with ROI calculations in euros — customer support, invoice processing, quality control, supply chain forecasting, compliance monitoring, and five more
+- Hardware analysis of CES 2026 announcements with SME budget recommendations (EUR 1,500–20,000)
+- 5 documented failure patterns with prevention strategies
+- 90-day implementation roadmap (EUR 7,400–23,100 investment)
+- 17 sourced references
+
+### Read the Whitepaper
+
+| Platform | Link |
+|----------|------|
+| **Apple Books** | [View on Apple Books](https://books.apple.com/us/book/ai-for-european-smes-the-2026-playbook/id6759465519) |
+| **All Stores** | [books2read.com/u/3kMwwR](https://books2read.com/u/3kMwwR) |
+
+### Keywords
+
+`AI Adoption` `European SMEs` `Small Language Models` `GDPR` `ROI Frameworks` `Implementation Roadmap` `AI Strategy` `CES 2026` `Enterprise AI`
+
+### Cite This Whitepaper
+
+```bibtex
+@book{lauria2026playbook,
+  title     = {{AI} for European {SME}s: The 2026 Playbook},
+  author    = {Lauria, Fabio},
+  year      = {2026},
+  month     = {February},
+  isbn      = {9791224323037},
+  pages     = {34},
+  note      = {Free whitepaper}
+}
+```
 
 ---
 

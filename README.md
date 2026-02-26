@@ -88,7 +88,12 @@ Leading ELECTE's technology vision focused on scalable, enterprise-grade AI solu
 📧 [Subscribe to Newsletter](https://magic.beehiiv.com/v1/648654e3-349f-4522-a74d-4bc3773c8864?email=) (40,000+ subscribers)
 
 
-## 📄 Research
+## 📄 Research & Publications
+
+**[AI for European SMEs: The 2026 Playbook](https://books2read.com/u/3kMwwR)** — Free whitepaper (34 pp.) with decision frameworks, 10 ROI-calculated use cases, and a 90-day implementation roadmap for SME AI adoption. Data from MIT, IBM, GlobalData, and S&P Global.
+
+[![Apple Books](https://img.shields.io/badge/Apple_Books-Free-000000?style=flat&logo=apple)](https://books.apple.com/us/book/ai-for-european-smes-the-2026-playbook/id6759465519)
+[![Books2Read](https://img.shields.io/badge/All_Stores-Free-blue?style=flat)](https://books2read.com/u/3kMwwR)
 
 **[The B+ Trap: How AI Compresses the Creative Spectrum — And What a Rebel Architecture Could Change](./research)**
 RLHF-trained AI systems are systematically rewarded for producing outputs that score well on average human preference — which mathematically pushes them toward creative mediocrity. This paper defines the B+ Trap, identifies RLHF as the structural mechanism, and proposes a Rebel AI framework built on novelty search, adversarial divergent agents, and metacognitive feedback.
