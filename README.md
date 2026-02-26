@@ -88,6 +88,10 @@ Leading ELECTE's technology vision focused on scalable, enterprise-grade AI solu
 📧 [Subscribe to Newsletter](https://magic.beehiiv.com/v1/648654e3-349f-4522-a74d-4bc3773c8864?email=) (40,000+ subscribers)
 
 
+## 📄 Research
+
+Browse my published research papers in the [`research/`](./research) directory.
+
 ## 💡 Current Projects
 
 - **ELECTE Platform** - AI-powered data analytics for European SMEs
