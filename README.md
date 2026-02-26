@@ -88,6 +88,23 @@ Leading ELECTE's technology vision focused on scalable, enterprise-grade AI solu
 📧 [Subscribe to Newsletter](https://magic.beehiiv.com/v1/648654e3-349f-4522-a74d-4bc3773c8864?email=) (40,000+ subscribers)
 
 
+## 📄 Research & Publications
+
+**[AI for European SMEs: The 2026 Playbook](https://books2read.com/u/3kMwwR)** — Free whitepaper (34 pp.) with decision frameworks, 10 ROI-calculated use cases, and a 90-day implementation roadmap for SME AI adoption. Data from MIT, IBM, GlobalData, and S&P Global.
+
+[![Amazon Kindle](https://img.shields.io/badge/Amazon_Kindle-Free-FF9900?style=flat&logo=amazon)](https://www.amazon.com/dp/B0GPY1CP3K)
+[![Apple Books](https://img.shields.io/badge/Apple_Books-Free-000000?style=flat&logo=apple)](https://books.apple.com/us/book/id6759465519)
+[![Kobo](https://img.shields.io/badge/Kobo-Free-BF0000?style=flat&logo=kobo)](https://www.kobo.com/search?query=9791224323037)
+[![Barnes & Noble](https://img.shields.io/badge/B%26N-Free-306735?style=flat)](https://www.barnesandnoble.com/w/x/x?ean=2940196155536)
+[![All Stores](https://img.shields.io/badge/All_Stores-Free-blue?style=flat)](https://books2read.com/u/3kMwwR)
+
+**[The B+ Trap: How AI Compresses the Creative Spectrum — And What a Rebel Architecture Could Change](./research)**
+RLHF-trained AI systems are systematically rewarded for producing outputs that score well on average human preference — which mathematically pushes them toward creative mediocrity. This paper defines the B+ Trap, identifies RLHF as the structural mechanism, and proposes a Rebel AI framework built on novelty search, adversarial divergent agents, and metacognitive feedback.
+
+[![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.10486.46403-blue?style=flat)](https://doi.org/10.13140/RG.2.2.10486.46403)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-View-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/publication/389493037)
+[![SSRN](https://img.shields.io/badge/SSRN-View-154881?style=flat)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135194)
+
 ## 💡 Current Projects
 
 - **ELECTE Platform** - AI-powered data analytics for European SMEs
