@@ -30,6 +30,7 @@ Published research and whitepapers by [Fabio Lauria](https://www.linkedin.com/in
 
 | Platform | Link |
 |----------|------|
+| **Amazon Kindle** | [View on Amazon](https://www.amazon.com/dp/B0GPY1CP3K) |
 | **Apple Books** | [View on Apple Books](https://books.apple.com/us/book/id6759465519) |
 | **Barnes & Noble** | [View on B&N](https://www.barnesandnoble.com/w/x/x?ean=2940196155536) |
 | **Bookshop.org** | [View on Bookshop.org](https://bookshop.org/book/9791224323037) |
@@ -144,4 +145,4 @@ This paper is seeking an **arXiv endorsement** for first-time submission under *
 
 ---
 
-For questions, feedback, or collaboration inquiries — [connect on LinkedIn](https://www.linkedin.com/in/fabiolauria).
+For questions, feedback, or collaboration inquiries — [connect on LinkedIn](https://www.linkedin.com/in/fabiolauria) | [Amazon Author Page](https://www.amazon.com/stores/Fabio-Lauria/author/B0GPZBPKMW).
