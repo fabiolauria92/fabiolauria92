@@ -30,7 +30,15 @@ Published research and whitepapers by [Fabio Lauria](https://www.linkedin.com/in
 
 | Platform | Link |
 |----------|------|
-| **Apple Books** | [View on Apple Books](https://books.apple.com/us/book/ai-for-european-smes-the-2026-playbook/id6759465519) |
+| **Apple Books** | [View on Apple Books](https://books.apple.com/us/book/id6759465519) |
+| **Barnes & Noble** | [View on B&N](https://www.barnesandnoble.com/w/x/x?ean=2940196155536) |
+| **Bookshop.org** | [View on Bookshop.org](https://bookshop.org/book/9791224323037) |
+| **Everand** | [View on Everand](https://www.everand.com/book/1000989032) |
+| **Fable** | [View on Fable](https://fable.co/book/x-9791224323037) |
+| **Kobo** | [View on Kobo](https://www.kobo.com/search?query=9791224323037) |
+| **Smashwords** | [View on Smashwords](https://www.smashwords.com/books/view/1972711) |
+| **Thalia** | [View on Thalia](https://www.thalia.de/shop/home/artikeldetails/EAN9791224323037) |
+| **Vivlio** | [View on Vivlio](https://shop.vivlio.com/search?search=9791224323037) |
 | **All Stores** | [books2read.com/u/3kMwwR](https://books2read.com/u/3kMwwR) |
 
 ### Keywords
