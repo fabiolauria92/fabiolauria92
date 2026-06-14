@@ -85,7 +85,7 @@ Leading ELECTE's technology vision focused on scalable, enterprise-grade AI solu
 - 💡 Business strategy & leadership
 
 ➡️ [Read more on Medium](https://medium.com/@fabiolauria)  
-📧 [Subscribe to Newsletter]([https://newsletter.electe.net/subscribe]) (100,000+ subscribers)
+📧 [Subscribe to Newsletter](https://newsletter.electe.net/subscribe) (100,000+ subscribers)
 
 
 ## 📄 Research & Publications
