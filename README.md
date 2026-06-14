@@ -45,7 +45,7 @@ Based in Milan, ELECTE operates at the forefront of business intelligence innova
 
 ```
 Platform Growth:        278% YoY
-Newsletter:             40,000+ subscribers
+Newsletter:             100,000+ subscribers
 International Revenue:  80% outside EU
 Innovation Focus:       100% AI/ML projects
 ```
