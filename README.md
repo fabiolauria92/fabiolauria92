@@ -120,7 +120,7 @@ I'm always open to discussing AI innovation, data analytics, business strategy, 
 - 💼 **LinkedIn:** [fabiolauria](https://www.linkedin.com/in/fabiolauria)
 - 📝 **Medium:** [@fabiolauria](https://medium.com/@fabiolauria)
 - 🌐 **Website:** [electe.net](https://electe.net)
-- 📰 **Newsletter:** [Subscribe here](https://magic.beehiiv.com/v1/648654e3-349f-4522-a74d-4bc3773c8864?email=)
+- 📰 **Newsletter:** [Subscribe here](https://newsletter.electe.net/subscribe)
 
 ### 🤝 Open to:
 - Speaking engagements on AI & data analytics
