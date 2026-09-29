@@ -108,7 +108,7 @@ Recognition associated with my work and ELECTE includes:
 I'm open to interviews on product strategy, applied AI, and company building, as well as speaking engagements, advisory work, research collaboration, guest articles, and podcast appearances.
 
 **Social**  
-[LinkedIn](https://www.linkedin.com/in/fabio-lauria/) · [X](https://x.com/fabiolauria92) · [Bluesky](https://bsky.app/profile/fabiolauria.bsky.social) · [Instagram](https://www.instagram.com/lauriafabio/) · [Threads](https://www.threads.com/@lauriafabio) · [Facebook](https://www.facebook.com/lauriafabio) · [Pinterest](https://www.pinterest.com/fabiolauria/) · [GitHub](https://github.com/fabiolauria92)
+[LinkedIn](https://www.linkedin.com/in/fabio-lauria/) · [X](https://x.com/fabiolauria) · [Bluesky](https://bsky.app/profile/fabiolauria.bsky.social) · [Instagram](https://www.instagram.com/lauriafabio/) · [Threads](https://www.threads.com/@lauriafabio) · [Facebook](https://www.facebook.com/lauriafabio) · [Pinterest](https://www.pinterest.com/fabiolauria/) · [GitHub](https://github.com/fabiolauria92)
 
 **Writing**  
 [AI Frontiers](https://newsletter.electe.net) · [Medium](https://medium.com/@fabiolauria) · [Hashnode](https://fabiolauria.hashnode.dev/) · [Author page](https://www.electe.net/author/fabio-lauria)
